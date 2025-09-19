@@ -1,7 +1,5 @@
 # MonoCraft - Product Showcase Website
 
-**Live URL:** [# MonoCraft - Product Showcase Website
-
 **Live URL:** [https://abem-s.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/](https://abem-s.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
 ---
@@ -18,28 +16,7 @@ This website includes:
 - **About Page**: Information about the creator and mission.
 - **Contact Page**: Contact form with validation.
 - **Product Details Page**: Detailed product information with related products.
-
----
-
-## 📂 Project Structure
-
-/](https://abem-s.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
-
----
-
-## 🌟 Project Purpose
-
-**MonoCraft** is a responsive multi-page website designed to showcase high-quality motorcycles.  
-The project demonstrates a complete web development workflow using **HTML5**, **CSS3**, and **JavaScript**, along with best practices for code organization, responsive design, and deployment.
-
-This website includes:
-
-- **Home Page**: Hero section and featured products carousel.
-- **Products Page**: Grid layout displaying all available products.
-- **About Page**: Information about the creator and mission.
-- **Contact Page**: Contact form with validation.
-- **Product Details Page**: Detailed product information with related products.
-
+  
 ---
 
 ## 📂 Project Structure
@@ -59,8 +36,6 @@ MonoCraft/
 ├─ product-details.html # Individual product details page
 └─ README.md # Project documentation
 ```
-
-
 ---
 
 ## 💻 Features
